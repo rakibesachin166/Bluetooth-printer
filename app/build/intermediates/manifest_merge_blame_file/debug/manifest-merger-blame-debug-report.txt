@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sacdev.wifiprint"
+4    android:versionCode="2"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:6:5-68
+11-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:6:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:7:5-74
+12-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:7:22-71
+13
+14    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+15    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:25:5-79
+16-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:25:22-76
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:26:5-67
+17-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:26:22-64
+18
+19    <application
+19-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:9:5-31:19
+20        android:name="com.sacdev.wifiprint.first"
+20-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:10:9-30
+21        android:allowBackup="true"
+21-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:11:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\32b6d3a1d555b218f74e6f047b725b9b\core-1.1.0\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:12:9-43
+25        android:label="wifiprinter"
+25-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:13:9-36
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:14:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:15:9-35
+28        android:theme="@style/AppTheme" >
+28-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:16:9-40
+29        <activity android:name="com.sacdev.wifiprint.MainActivity" >
+29-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:19:9-25:20
+29-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:19:19-67
+30            <intent-filter>
+30-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:20:13-24:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:21:17-69
+31-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:21:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:23:17-77
+33-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:23:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.sacdev.wifiprint.DeviceListActivity" />
+36-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:26:13-79
+36-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:26:23-77
+37
+38        <meta-data
+38-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:28:9-30:57
+39            android:name="preloaded_fonts"
+39-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:29:13-43
+40            android:resource="@array/preloaded_fonts" />
+40-->C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:30:13-54
+41
+42        <service
+42-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:29:9-35:19
+43            android:name="com.google.firebase.components.ComponentDiscoveryService"
+43-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:30:13-84
+44            android:exported="false" >
+44-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:31:13-37
+45            <meta-data
+45-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:32:13-34:85
+46                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+46-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:33:17-109
+47                android:value="com.google.firebase.components.ComponentRegistrar" />
+47-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:34:17-82
+48        </service>
+49
+50        <activity
+50-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+51            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+51-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+52            android:exported="false"
+52-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+53            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+53-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+54
+55        <provider
+55-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+56            android:name="com.google.firebase.provider.FirebaseInitProvider"
+56-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+57            android:authorities="com.sacdev.wifiprint.firebaseinitprovider"
+57-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+58            android:exported="false"
+58-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+59            android:initOrder="100" />
+59-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+60
+61        <meta-data
+61-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+62            android:name="com.google.android.gms.version"
+62-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+63            android:value="@integer/google_play_services_version" />
+63-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+64    </application>
+65
+66</manifest>

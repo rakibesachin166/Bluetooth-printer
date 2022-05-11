@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\a09a4a76dccc366890100236a9f4c1cb\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\d74660dd9e5f14a8d7f2c3abf2f41556\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\9d3064f0174ca3c28070ac1635488d12\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\91713dac6cf96cf1abc434d211e0307f\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\07bdfd79df0f6715bf304cfebfec4305\firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\525ba70a14719abf53e9e44500614948\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\2080bbe577851da2e073c4f78c4f9490\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\748dc825e415a5269558786327771da1\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f62a13185446e7c3547dc61e839f000c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\b98ea9105ed22186adb4ef4434eed003\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\55312f41dc51aeb79ed911e55727a16a\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f143ece02c5cb1ceef361c619bdd870b\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\13a949414ecbcf236600986bde8b0301\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\b1297f8ef0f623b8a30633cf51f4623f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\fc12b25698c05a3e508231ac376d1ca9\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\ddc615969a6df821f5bdbfa65cf5d464\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\449dff233f67c53d12b9e2fecca1e2ef\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\d112a890d37eb7939da5167da83068b3\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\32b6d3a1d555b218f74e6f047b725b9b\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\252fa57de9b9a2ac2d523b79f7a2ce1e\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\3880aec474d36935b4e0332a537c04a3\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\27cccd24def3c272a4fff5a85e4a1e50\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7fde976b70fcc62630eae1af1c9c4ff4\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\c1e8286c2bba76d4b091303769b68484\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\9dbc3f9c36b05d07c282ae5cd831543c\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f8300783a4db357a9eadcb8920cbdd01\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\3fc397978413f204f39a891ef946702c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\084953ab6bb7b7519d86c7325dfa24a8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\05f71c44e95e727652aff2650cc86d4d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\fbb076f3392d0ca43a6174cac50449fb\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:7:22-71
+application
+ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:9:5-31:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\a09a4a76dccc366890100236a9f4c1cb\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\a09a4a76dccc366890100236a9f4c1cb\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\9d3064f0174ca3c28070ac1635488d12\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\9d3064f0174ca3c28070ac1635488d12\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\07bdfd79df0f6715bf304cfebfec4305\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\07bdfd79df0f6715bf304cfebfec4305\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\525ba70a14719abf53e9e44500614948\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\525ba70a14719abf53e9e44500614948\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\32b6d3a1d555b218f74e6f047b725b9b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\32b6d3a1d555b218f74e6f047b725b9b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\27cccd24def3c272a4fff5a85e4a1e50\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\27cccd24def3c272a4fff5a85e4a1e50\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\32b6d3a1d555b218f74e6f047b725b9b\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:13:9-36
+	tools:ignore
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:17:9-48
+	android:roundIcon
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:10:9-30
+activity#com.sacdev.wifiprint.MainActivity
+ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:19:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.sacdev.wifiprint.DeviceListActivity
+ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:26:13-79
+	android:name
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:26:23-77
+meta-data#preloaded_fonts
+ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:28:9-30:57
+	android:resource
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:30:13-54
+	android:name
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml:29:13-43
+uses-sdk
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\a09a4a76dccc366890100236a9f4c1cb\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\a09a4a76dccc366890100236a9f4c1cb\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\d74660dd9e5f14a8d7f2c3abf2f41556\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\d74660dd9e5f14a8d7f2c3abf2f41556\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\9d3064f0174ca3c28070ac1635488d12\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\9d3064f0174ca3c28070ac1635488d12\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\91713dac6cf96cf1abc434d211e0307f\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\91713dac6cf96cf1abc434d211e0307f\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\07bdfd79df0f6715bf304cfebfec4305\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\07bdfd79df0f6715bf304cfebfec4305\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\525ba70a14719abf53e9e44500614948\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\525ba70a14719abf53e9e44500614948\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\2080bbe577851da2e073c4f78c4f9490\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\2080bbe577851da2e073c4f78c4f9490\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\748dc825e415a5269558786327771da1\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\748dc825e415a5269558786327771da1\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f62a13185446e7c3547dc61e839f000c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f62a13185446e7c3547dc61e839f000c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\b98ea9105ed22186adb4ef4434eed003\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\b98ea9105ed22186adb4ef4434eed003\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\55312f41dc51aeb79ed911e55727a16a\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\55312f41dc51aeb79ed911e55727a16a\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f143ece02c5cb1ceef361c619bdd870b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f143ece02c5cb1ceef361c619bdd870b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\13a949414ecbcf236600986bde8b0301\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\13a949414ecbcf236600986bde8b0301\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\b1297f8ef0f623b8a30633cf51f4623f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\b1297f8ef0f623b8a30633cf51f4623f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\fc12b25698c05a3e508231ac376d1ca9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\fc12b25698c05a3e508231ac376d1ca9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\ddc615969a6df821f5bdbfa65cf5d464\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\ddc615969a6df821f5bdbfa65cf5d464\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\449dff233f67c53d12b9e2fecca1e2ef\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\449dff233f67c53d12b9e2fecca1e2ef\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\d112a890d37eb7939da5167da83068b3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\d112a890d37eb7939da5167da83068b3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\32b6d3a1d555b218f74e6f047b725b9b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\32b6d3a1d555b218f74e6f047b725b9b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\252fa57de9b9a2ac2d523b79f7a2ce1e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\252fa57de9b9a2ac2d523b79f7a2ce1e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\3880aec474d36935b4e0332a537c04a3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\3880aec474d36935b4e0332a537c04a3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\27cccd24def3c272a4fff5a85e4a1e50\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\27cccd24def3c272a4fff5a85e4a1e50\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7fde976b70fcc62630eae1af1c9c4ff4\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7fde976b70fcc62630eae1af1c9c4ff4\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\c1e8286c2bba76d4b091303769b68484\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\c1e8286c2bba76d4b091303769b68484\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\9dbc3f9c36b05d07c282ae5cd831543c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\9dbc3f9c36b05d07c282ae5cd831543c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f8300783a4db357a9eadcb8920cbdd01\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f8300783a4db357a9eadcb8920cbdd01\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\3fc397978413f204f39a891ef946702c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\3fc397978413f204f39a891ef946702c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\084953ab6bb7b7519d86c7325dfa24a8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\084953ab6bb7b7519d86c7325dfa24a8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\05f71c44e95e727652aff2650cc86d4d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\05f71c44e95e727652aff2650cc86d4d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\fbb076f3392d0ca43a6174cac50449fb\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\fbb076f3392d0ca43a6174cac50449fb\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sachin\Desktop\BluetoothPrinter-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:26:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7d47adc3fdf6b10d863d8c02e4eb7d1a\firebase-database-19.0.0\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\f5aacbc7d1018e6402d9b8c4ff3bd144\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\7398073d8abd4961fe7a8b47a78c9f37\firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Sachin\.gradle\caches\transforms-2\files-2.1\84e26e4183843d3035c2e448d15c3992\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

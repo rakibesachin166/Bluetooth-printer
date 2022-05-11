@@ -1,0 +1,4 @@
+#Thu Feb 17 20:11:29 IST 2022
+base.0=C\:\\Users\\Sachin\\Desktop\\BluetoothPrinter-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
